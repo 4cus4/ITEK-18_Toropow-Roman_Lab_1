@@ -5,5 +5,5 @@ F:\GITHub\ITEK-18_Lisichkin_Lab_2\WindowsFormsApplication1\WindowsFormsApplicati
 F:\GITHub\ITEK-18_Lisichkin_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 F:\GITHub\ITEK-18_Lisichkin_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 F:\GITHub\ITEK-18_Lisichkin_Lab_2\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
-D:\GitHub\ITEK-18_Toropow-Roman_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
-D:\GitHub\ITEK-18_Toropow-Roman_Lab_1\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+F:\GITHub\ITEK-18_Lisichkin_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+F:\GITHub\ITEK-18_Lisichkin_Lab_2\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
